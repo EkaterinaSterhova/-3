@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\bin\HPD\Debug\net6.0\задача23.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\bin\HPD\Debug\net6.0\задача23.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\bin\HPD\Debug\net6.0\задача23.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\bin\HPD\Debug\net6.0\задача23.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\bin\HPD\Debug\net6.0\задача23.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\refint\задача23.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\задача23.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 3\sem3\домашнее задание\задача23\obj\HPD\Debug\net6.0\ref\задача23.dll
